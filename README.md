@@ -1,4 +1,4 @@
-# IsuzuIPG_DIY
+# Solaris IPG
 Include necessary sensor like radar and Lidar. Can also finish parking lot exploration
 
 ## Introduction
